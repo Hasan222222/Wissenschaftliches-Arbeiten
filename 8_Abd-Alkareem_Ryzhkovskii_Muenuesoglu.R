@@ -12,3 +12,4 @@ any(wkeiten < 0.05)
 #Plot der Guetefunktion
 plot(1:100, wkeiten, type = "l", xlab = expression("teta"), ylab = "Wkeitswerte",
      main = "Plot zur Guetefunktion")
+dnudundbxobcbjjc
